@@ -227,12 +227,14 @@ footer {
         align-items: center;
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
-        
-      }
+    }
+
     .menu .p {
         align-items: center;
+        text-align: center;
+        display: flex;
     }
+
     /* footer section */
     footer {
         height: auto;
