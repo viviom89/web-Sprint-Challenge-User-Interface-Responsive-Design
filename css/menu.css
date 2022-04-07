@@ -64,6 +64,8 @@ body {
 
 h1, h2, h3, h4, h5, h6, p, a, i {
     text-decoration: none;
+    text-decoration: none;
+    color: rgb(225, 239, 230);
 }
 
 h1 {
@@ -96,6 +98,28 @@ header {
     background-repeat: no-repeat;
 }
 
+.header_title {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(0, 4, 17, .8);
+}
+
+.navigator {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 4, 17, .8);
+    display: flex;
+    justify-content: space-around;
+}
+
+.social {
+    width: 100%;
+    align-items: center;
+    background-color: rgb(0, 4, 17, .8);
+    display: flex;
+    justify-content: space-evenly;
+}
+
 /* spacer */
 .spacer {
     width: 100%;
@@ -120,12 +144,39 @@ header {
     background-repeat: no-repeat;
 }
 
+
+
 /* footer section */
 footer {
     width: 100%;
     height: 15vh;
     padding-top: 2.5vh;
     font-size: 3rem;
+    background-color: rgb(0, 4, 17);
+}
+.join {
+    display: flex;
+    justify-content: left;
+}
+.input {
+    display: flex;
+    justify-content: left;
+}
+.footer_nav {
+    padding-left: 40%;
+    padding-right: 5%;
+    align-items: right;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 4, 17);
+}
+
+.copyright {
+    padding-right: 5%;
+    font-size: 1 rem;
+    display: flex;
+    justify-content: right;
+    background-color: rgb(0, 4, 17);
 }
 
 /* mobile media query */
