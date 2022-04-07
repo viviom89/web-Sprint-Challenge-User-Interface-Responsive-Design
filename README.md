@@ -69,11 +69,11 @@ You **must** use the Google Chrome developer tools during your HTML/CSS implemen
 ​
 Review the provided design file for the home page.
 ​
-* [ ] Build the HTML and CSS to create the missing header and footer sections.
-* [ ] Link the h1 page title to the [index.html](index.html) page.
-* [ ] Link the `Menu` navigation item to the [menu.html](menu.html) page.
-* [ ] Create social media buttons on header for [Facebook](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), [Twitter](https://fontawesome.com/search?q=twitter&s=solid%2Cbrands), and [Instagram](https://fontawesome.com/search?q=instagram&s=solid%2Cbrands) with the linked icons.
-* [ ] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
+* [ x] Build the HTML and CSS to create the missing header and footer sections.
+* [ x] Link the h1 page title to the [index.html](index.html) page.
+* [ x] Link the `Menu` navigation item to the [menu.html](menu.html) page.
+* [ x] Create social media buttons on header for [Facebook](https://fontawesome.com/search?q=facebook&s=solid%2Cbrands), [Twitter](https://fontawesome.com/search?q=twitter&s=solid%2Cbrands), and [Instagram](https://fontawesome.com/search?q=instagram&s=solid%2Cbrands) with the linked icons.
+* [ x] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
 ​
 Colors and fonts:
 Light text: rgb(225, 239, 230);
@@ -85,7 +85,7 @@ Dark transparency: background-color: rgb(0, 4, 17, .8);
 ​
 Review the provided design files for the menu page.
 ​
-* [ ] Copy and paste your home page header and footer into the menu page.
+* [ x] Copy and paste your home page header and footer into the menu page.
 * [ ] Update the header image with the menu page image.
 * [ ] Use the article element for the menu and a div inside of it; change the div's class to "menu-container"
 * [ ] Create a container for each section (e.g. drinks or entrees) with class "menu-section"
